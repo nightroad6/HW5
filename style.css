@@ -63,7 +63,96 @@
 .contact {
     background-color: #FFFFFF;
     height: 500px;
+    display: flex;
 }
+.contact-us {
+    width: 45%;
+    color: #000000;
+}
+.contact-title {
+    font-size: 36px;
+    margin-top: 117px;
+    margin-left: 176px;
+}
+.contact-text-1 {
+    font-size: 14px;
+    margin-left: 176px;
+    margin-top: 30px;
+}
+.contact-text-2 {
+    font-size: 14px;
+    margin-left: 176px;
+    margin-top: 7px;
+}
+.contact-inf {
+    width: 50%;
+}
+.name {
+    display: flex;
+    margin-top: 117px;
+    margin-bottom: 75px;
+    margin-left: 120px;
+    width: 540px;
+    height: 305px;
+    flex-wrap: wrap;
+}
+.name-first {
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 255px;
+    height: 60px;
+    font-size: 16px;
+    color: #132743 50%;
+    padding-left: 20px;
+
+}
+.name-last {
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 255px;
+    height: 60px;
+    font-size: 16px;
+    color: #132743 50%;
+    width: 255px;
+    height: 60px;
+    margin-left: 28px;
+    padding-left: 20px;
+}
+.tel-number {
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 540px;
+    height: 60px;
+    font-size: 16px;
+    color: #132743 50%;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+.select {
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 540px;
+    height: 60px;
+    font-size: 16px;
+    color: #132743 50%;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+.button-submit {
+    width: 160px;
+    height: 50px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: #FAFAFA;
+    margin-top: 15px;
+}
+
 .contact-list {
     background-color: #FAFAFA;
     height: 435px;
