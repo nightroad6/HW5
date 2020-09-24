@@ -152,6 +152,7 @@
     color: #FAFAFA;
     margin-top: 15px;
     cursor: pointer;
+    outline: none;
 }
 
 .contact-list {
