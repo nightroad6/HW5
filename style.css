@@ -151,6 +151,7 @@
     border-radius: 6px;
     color: #FAFAFA;
     margin-top: 15px;
+    cursor: pointer;
 }
 
 .contact-list {
